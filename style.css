@@ -710,6 +710,11 @@ form .send-btn:hover{
         margin-top: 20px; /* Tambahkan jarak di atas daftar navigasi */
     }
 
+    .navlist a {
+        font-size: 0.9rem; /* Adjust font size for smaller screens */
+        margin-left: 20px; /* Reduce margin between navigation links */
+    }
+
     .top-btnn {
         margin-top: 20px; /* Tambahkan jarak di atas tombol "Contact Me" */
         display: none;
